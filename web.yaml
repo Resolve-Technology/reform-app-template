@@ -28,3 +28,4 @@ categories:
     - type: aws-s3
     - type: aws-elb
     - type: aws-rds
+    - type: wv-aws-s3
