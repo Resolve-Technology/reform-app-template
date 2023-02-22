@@ -11,7 +11,7 @@ categories:
        - type: sidecar
        - type: service-account
        - type: storage
-    - type: web   
+#     - type: web   
  - type: api
    components:
     - type: webservice
@@ -22,7 +22,7 @@ categories:
        - type: service-account
        - type: storage
  - type: infrastructure
-   components:
+#    components:
 #     - type: aws-s3
 #     - type: aws-elb
 #     - type: aws-rds
