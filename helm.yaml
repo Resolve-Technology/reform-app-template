@@ -6,7 +6,7 @@ categories:
    components:
     - type: helm
  - type: infrastructure
-   components:
-    - type: aws-s3
-    - type: aws-elb
-    - type: aws-rds    
+#    components:
+#     - type: aws-s3
+#     - type: aws-elb
+#     - type: aws-rds    
