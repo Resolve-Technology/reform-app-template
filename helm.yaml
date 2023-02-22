@@ -2,7 +2,7 @@ name: helm
 alias: Helm
 description: Helm Chart Template.
 categories:
-#  - type: k8s
+ - type: k8s
 #    components:
 #     - type: helm
  - type: infrastructure
