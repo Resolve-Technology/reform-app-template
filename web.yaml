@@ -23,7 +23,7 @@ categories:
        - type: storage
  - type: infrastructure
    components:
-    - type: aws-s3
-    - type: aws-elb
-    - type: aws-rds
-    - type: wv-aws-s3
+#     - type: aws-s3
+#     - type: aws-elb
+#     - type: aws-rds
+#     - type: wv-aws-s3
