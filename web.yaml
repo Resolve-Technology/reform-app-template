@@ -8,16 +8,12 @@ categories:
       traits:
        - type: scaler
        - type: gateway
-       - type: test
        - type: sidecar
        - type: service-account
        - type: storage
     - type: web   
  - type: api
    components:
-    - type: test
-      traits:
-       - type: test
     - type: webservice
       traits:
        - type: scaler
@@ -31,4 +27,3 @@ categories:
     - type: aws-elb
     - type: aws-rds
     - type: wv-aws-s3
-    - type: test
