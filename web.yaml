@@ -6,7 +6,6 @@ categories:
    components:
     - type: webservice
       traits:
-       - type: test
        - type: scaler
        - type: gateway
        - type: sidecar
@@ -15,7 +14,6 @@ categories:
     - type: web   
  - type: api
    components:
-    - type: test
     - type: webservice
       traits:
        - type: scaler
