@@ -3,10 +3,10 @@ alias: Helm
 description: Helm Chart Template.
 categories:
  - type: k8s
-#    components:
-#     - type: helm
+   components:
+    - type: helm
  - type: infrastructure
-#    components:
-#     - type: aws-s3
-#     - type: aws-elb
-#     - type: aws-rds    
+   components:
+    - type: aws-s3
+    - type: aws-elb
+    - type: aws-rds    
