@@ -27,3 +27,4 @@ categories:
     - type: aws-elb
     - type: aws-rds
     - type: wv-aws-s3
+    - type: test
